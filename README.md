@@ -3,7 +3,7 @@
 A Sustainable Development Research Project in which developed models that predicts crop yield and suggests crops for a given area using Machine Learning and Deep Learning algorithms by considering factors like temperature, rainfall, area, etc.
 
 # Description
-Agriculture is one of the major and the least paid occupation in India. Machine learning can bring a boom in the agriculture field by changing the income scenario through growing the optimum crop. This work focuses on predicting the yield of the crop by applying various machine learning techniques. The outcome of these techniques is compared on the basis of mean absolute error. The prediction made by machine learning algorithms will help the farmers to decide which crop to grow to get the maximum yield by considering factors like temperature, rainfall, area, etc.
+Agriculture is one of the major and the least paid occupation in India. Machine learning can bring a boom in the agriculture field by changing the income scenario through growing the optimum crop. This work focuses on predicting the yield of the crop by applying various machine learning techniques. The outcome of these techniques is compared on the basis of performance. The prediction made by machine learning algorithms will help the farmers to decide which crop to grow to get the maximum yield by considering factors like temperature, rainfall, area, etc.
 
 # About Dataset
 This dataset contains agricultural data for 1,000,000 samples aimed at predicting crop yield (in tons per hectare) based on various factors. The dataset can be used for regression tasks in machine learning, especially for predicting crop productivity.
