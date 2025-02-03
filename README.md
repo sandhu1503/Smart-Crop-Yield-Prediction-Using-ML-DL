@@ -1,4 +1,4 @@
-# Smart-Crop-Yield-Prediction-Using-ML-DL
+# Crop-Yield-Prediction-Using-ML-DL
 
 A Sustainable Development Research Project in which developed models that predicts crop yield and suggests crops for a given area using Machine Learning and Deep Learning algorithms by considering factors like temperature, rainfall, area, etc.
 
